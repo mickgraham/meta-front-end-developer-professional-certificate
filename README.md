@@ -31,7 +31,6 @@ The [Little Lemon Capstone Project](https://github.com/mickgraham/little-lemon-c
 
 ## Specialisation Certificate
 
-Verify this certificate [here](https://coursera.org/verify/professional-cert/3G288XRFMQ5B).
+Verify this certificate at [https://coursera.org/verify/professional-cert/3G288XRFMQ5B](https://coursera.org/verify/professional-cert/3G288XRFMQ5B).
 
 <img src="https://github.com/user-attachments/assets/80e6ceb2-2a82-447b-8f66-28630b4fb552" />
-
