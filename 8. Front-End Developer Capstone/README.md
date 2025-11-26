@@ -1,14 +1,10 @@
-# Course syllabus: Frint-End Developer Capstone
+# Front-End Developer Capstone
 
-## Overview
-
-This reading will introduce you to the scope of things you will cover in this Capstone Project course.  This course covers building a capstone project in React, specifically building a React-based web app for the Little Lemon restaurant.
+This course covers building a capstone project in React, specifically building a React-based web app for the Little Lemon restaurant.
 
 The Capstone project enables you to demonstrate multiple skills from the Certificate by solving an authentic real-world problems. Each module includes a brief recap of, and links to, content that you have covered in previous courses in this program.
 
 This course will test your knowledge and understanding, and provide you with a platform to show off your new abilities in front-end web development using React. During this course, you will be guided through the process of building an app, combining all the skills and technologies you've learned throughout this program to solve the problem at hand.
-
-To complete this course, you will need Front-End developer experience.  Additionally, it always helps to have a can-do attitude!
 
 On completion of the Capstone project, you'll have a job-ready portfolio that you can show to recruiters, demonstrate during interviews and impress potential employers.
 
@@ -39,8 +35,8 @@ In this module, you'll focus on coding interactive parts of your app. You will c
 
 By the end of this module, you will have completed the following:
 
-* Coding the table booking system, including state,
-* Working with forms to update your app's state through user input,
+* Coding the table booking system, including state
+* Working with forms to update your app's state through user input
 * Adding unit tests to ensure your app works correctly as you code new features
 * Working with some in-browser APIs to ensure more persistent data
 

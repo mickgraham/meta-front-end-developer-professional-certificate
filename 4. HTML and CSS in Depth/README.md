@@ -1,4 +1,4 @@
-# Course syllabus: HTML and CSS in Depth
+# HTML and CSS in Depth
 
 To take this course, you don't need any developer experience, but you must be eager to get started with coding.
 

@@ -1,8 +1,6 @@
-# Course syllabus
+# Programming with JavaScript
 
-This course is the second of a series that aims to help you learn more about web development. 
-
-In this course, you will explore the following:
+The course "Programming with JavaScript" provides a comprehensive introduction to JavaScript and its applications in web development.
 
 ## Module 1: Introduction to JavaScript
 
@@ -25,8 +23,8 @@ After completing this module, you will be able to:
 * Build and use objects, arrays, and functions
 * List some common built-in methods on built-in objects
 * Describe handling bugs and errors using try, catch, throw, and defensive programming
-* Explain the difference between undefined, null, and empty strings  
-* Demonstrate how to write basic code using arrays, objects and functions   
+* Explain the difference between undefined, null, and empty strings
+* Demonstrate how to write basic code using arrays, objects and functions
 
 ## Module 3: Programming paradigms
 

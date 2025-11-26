@@ -1,8 +1,12 @@
-# Course syllabus for React Basics
+# React Basics
 
 This course is an introduction to React development. You'll learn enough basic concepts to empower you to build simple user interfaces in React.
 
-This course consists of four modules. They cover the following topics.
+## Navigation, Updating, and Assets
+
+* You identified basic types of navigation and created navigation routes using the React Router library.
+* You explored how to conditionally render components and manage assets within React applications.
+
 
 ## Module 1: Anatomy of React
 

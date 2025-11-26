@@ -1,4 +1,4 @@
-# Course syllabus for Introduction to Front-End Development
+# Introduction to Front-End Development
 
 This course is the first of a series that aims to help you learn more about web development and prepares you for using Bootstrap on a biographical page you will create.  By the end of this course, you'll be able to:
 

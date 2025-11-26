@@ -1,12 +1,6 @@
-# Course syllabus: Advanced React
-
-By the end of this reading, you will have learned about the scope of things you will cover in this course. 
-
-### Prerequisites
+# Advanced React
 
 To take this course, you should understand the basics of React, HTML, CSS, and JavaScript. Additionally, it always helps to have a can-do attitude!
-
-### Course content
 
 This course covers advanced React development. You'll learn how to use more advanced React concepts and features, optimize and test your React applications, and become proficient in using React and JSX.
 
@@ -20,12 +14,12 @@ In React, everything revolves around components. You'll learn how to efficiently
 
 By the end of this module you will be able to:
 
-* Outline React and various career opportunities. 
-* Render and transform lists with keys in React. 
-* Distinguish between controlled and uncontrolled React components. 
-* Create a controlled form component in React. 
-* Share component state by lifting state up to the closest common ancestor. 
-* Share global state using React Context. 
+* Outline React and various career opportunities.
+* Render and transform lists with keys in React.
+* Distinguish between controlled and uncontrolled React components.
+* Create a controlled form component in React.
+* Share component state by lifting state up to the closest common ancestor.
+* Share global state using React Context.
 
 ## Module 2: React Hooks and Custom Hooks
 
@@ -33,12 +27,12 @@ The second module of this course covers React hooks and custom hooks. You'll lea
 
 By the end of this module you will be able to:
 
-* Explain the uses and purpose of React hooks.  
-* Detail the concept and nature of state and state change. 
-* Use the State hook to declare, read and update the state of a component. 
-* Use the Effect hook to perform side-effects within a React component. 
-* Use hooks to fetch data in React. 
-* Create appropriate custom hooks in React. 
+* Explain the uses and purpose of React hooks.
+* Detail the concept and nature of state and state change.
+* Use the State hook to declare, read and update the state of a component.
+* Use the Effect hook to perform side-effects within a React component.
+* Use hooks to fetch data in React.
+* Create appropriate custom hooks in React.
 
 ## Module 3: JSX and Testing
 
@@ -46,10 +40,10 @@ In this module, you'll learn about JSX and testing in React. You'll cover JSX in
 
 By the end of this module, you will be able to:
 
-* Define the types of children within JSX. 
-* Describe the process and purpose of creating render props. 
-* Describe the process and purpose of creating higher-order components. 
-* Use Jest and the React Testing Library to write and perform tests on your applications. 
+* Define the types of children within JSX.
+* Describe the process and purpose of creating render props.
+* Describe the process and purpose of creating higher-order components.
+* Use Jest and the React Testing Library to write and perform tests on your applications.
 
 ## Module 4: Graded Assessment
 
@@ -61,6 +55,5 @@ This is a creative project, and the goal is to use as many React concepts as pos
 
 By the end of this module, you will be able to:
 
-* Synthesize the skills from this course to create a portfolio. 
-* Reflect on this course's content and on the learning path that lies ahead. 
-
+* Synthesize the skills from this course to create a portfolio.
+* Reflect on this course's content and on the learning path that lies ahead.
