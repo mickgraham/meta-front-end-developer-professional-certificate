@@ -1,6 +1,6 @@
 # Meta Front-End Developer Professional Certificate
 
-The Meta Front-End Developer Professional Certificate Specialization is a comprehensive 9-course program designed to prepare learners for an entry-level career in front-end development.
+The **Meta Front-End Developer Professional Certificate** specialization is a comprehensive 9-course program designed to prepare learners for an entry-level career in front-end development.
 
 ## Project Overview
 
@@ -13,7 +13,7 @@ What you will learn:
 * Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.
 * Prepare for a coding interview, learn best approaches to problem-solving, and build portfolio-ready projects you can share during job interviews.
 
-## Technologies & Tools
+## Skills & Technologies
 
 |                                                                            |            |                                             |
 | -------------------------------------------------------------------------- | ---------- | ------------------------------------------- |
