@@ -33,4 +33,4 @@ The [Little Lemon Capstone Project](https://github.com/mickgraham/little-lemon-c
 
 Verify this certificate [here](https://coursera.org/verify/professional-cert/3G288XRFMQ5B).
 
-![Meta Front-End Developer Specialisation Certificate](./Certificates/Meta Front-End Developer Specialisation Certificate.pdf)
+![Meta Front-End Developer Specialisation Certificate](Certificates/Meta%20Front-End%20Developer%20Specialisation%20Certificate.pdf)
